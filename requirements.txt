@@ -8,6 +8,5 @@ matplotlib==3.6.2
 seaborn==0.12.1
 xgboost==1.6.5
 sklearn==1.2.0
-streamlit==1.15.1
 requests==2.29.2
 findspark==2.0.1
