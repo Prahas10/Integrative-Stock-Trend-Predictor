@@ -1,0 +1,12 @@
+nltk==3.9.0
+pyspark==3.4.1
+beautifulsoup4==4.12.0
+pandas==1.5.4
+numpy==1.24.1
+matplotlib==3.6.2
+seaborn==0.12.1
+xgboost==1.6.5
+sklearn==1.2.0
+streamlit==1.15.1
+requests==2.29.2
+findspark==2.0.1
